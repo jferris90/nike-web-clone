@@ -11,6 +11,7 @@
     --color-white-400: rgba(255, 255, 255, 0.80);
     --font-palanquin: "Palanquin", sans-serif;
     --font-montserrat: "Montserrat", sans-serif;
+    --shadow-3xl: 0 10px 40px rgba(0, 0, 0, 0.1);
 }
 
 @layer components {
